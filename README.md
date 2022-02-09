@@ -16,6 +16,8 @@ I also used a few sites to help curating the words used, and the dictionary word
 
 I ended up with there versions of Wordle Clones, where the Number is equal to the number of letters in the "wordle". I figured the 3 letter version would be easyer and the 7 letter version harder. I was part right, the 3 letter version is much harder than you think becasue you don't get many letters to help with you guesses.
 
+Overall I would say the clones I created are about 80 - 85% based on Ania's Turotial, 5 - 10% based on the Web Dev Simplifide & Ian Lenehan Turtorials, and whatever's left I guess is on me 😁
+
 # Try The Clones!
 
 [Wordle Clone 3](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_3) the "Wordle" is 3 letters, and you have 6 guesses to get it. (originally only 4 guesses but way to hard)
@@ -23,3 +25,5 @@ I ended up with there versions of Wordle Clones, where the Number is equal to th
 [Wordle Clone 5](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_5) the "Wordle" is 5 letters, and you have 6 guesses to get it.   
 
 [Wordle Clone 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.
+
+All versions choose a random "wordle" from a list of 350 possible wordles for that version of the clone. You can play as many time as you like, but as a truly random selection of the wordle you could get the same works back to back, or close together.
