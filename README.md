@@ -12,10 +12,12 @@ After doing the API version of the Wordle clone I wanted to see if I could do a 
 I also used a few sites to help curating the words used, and the dictionary words:
 - [Randon Word Generator](https://randomwordgenerator.com/)
 - [KITTXT](https://kittxt.com/eng/) online kit for text and lists.
-- [arayThis](https://arraythis.com/) instantly convert your text list to array; valid for JS, PHP, PERL, PYTHON (as list) and much more.
+- [arrayThis](https://arraythis.com/) instantly convert your text list to array; valid for JS, PHP, PERL, PYTHON (as list) and much more.
 
-[Wordle Clone 3](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_3)    
+I ended up with there versions of Wordle Clones, where the Number is equal to the number of letters in the "wordle". I figured the 3 letter version would be easyer and the 7 letter version harder. I was part right, the 3 letter version is much harder than you think becasue you don't get many letters to help with you guesses.
 
-[Wordle Clone 5](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_5)   
+[Wordle Clone 3](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_3) the "Wordle" is 3 letters, and you have 6 guesses to get it. (originally only 4 guesses but way to hard)
 
-[Wordle Clone 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_7)   
+[Wordle Clone 5](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_5) the "Wordle" is 5 letters, and you have 6 guesses to get it.   
+
+[Wordle Clone 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.
