@@ -16,7 +16,7 @@ I also used a few sites to help curating the words used, and the dictionary word
 
 I ended up with there versions of Wordle Clones, where the Number is equal to the number of letters in the "wordle". I figured the 3 letter version would be easyer and the 7 letter version harder. I was part right, the 3 letter version is much harder than you think becasue you don't get many letters to help with you guesses.
 
-Overall I would say the clones I created are about 80 - 85% based on Ania's Turotial, 5 - 10% based on the Web Dev Simplifide & Ian Lenehan Turtorials, and whatever's left I guess is on me 😁
+Overall I would say the clones I created are about 80 - 85% based on Ania's Tutorial, 5 - 10% based on the Web Dev Simplifide & Ian Lenehan Tutorials, and whatever's left I guess is on me 😁
 
 # Try The Clones!
 
