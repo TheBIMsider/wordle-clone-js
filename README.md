@@ -6,8 +6,8 @@ I worked through this video which is about 90 minute long. I spent about 6 - 8 h
 
 After doing the API version of the Wordle clone I wanted to see if I could do a version that didn't need the APIs. When working on this I found a couple other wordle tutorials on YouTube that helped with a few things to change it from with APIs to without.
 
-- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) How To Create A 7 Figure Business Idea In One Hour [(Video Here)](https://youtu.be/Wak7iN4JZzU) GitHub Repo [Here](https://github.com/WebDevSimplified/wordle-clone)
-- [Ian Lenehan](https://www.youtube.com/c/IanLenehan) Using a Wordle clone to understand local storage in Javascript [(Video Here)](https://youtu.be/lF4O1wvyVow) GitHub Repo [Here](https://github.com/ianlenehan/wordle-clone)
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) YouTube video: How To Create A 7 Figure Business Idea In One Hour [(Video Here)](https://youtu.be/Wak7iN4JZzU) GitHub Repo [Here](https://github.com/WebDevSimplified/wordle-clone)
+- [Ian Lenehan](https://www.youtube.com/c/IanLenehan) YouTube video: Using a Wordle clone to understand local storage in Javascript [(Video Here)](https://youtu.be/lF4O1wvyVow) GitHub Repo [Here](https://github.com/ianlenehan/wordle-clone)
 
 I also used a few sites to help curating the words used, and the dictionary words:
 - [Randon Word Generator](https://randomwordgenerator.com/)
