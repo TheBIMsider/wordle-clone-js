@@ -16,7 +16,7 @@ I also used a few sites to help curating the words used, and the dictionary word
 
 I ended up with there versions of Wordle Clones, where the Number is equal to the number of letters in the "wordle". I figured the 3 letter version would be easyer and the 7 letter version harder. I was part right, the 3 letter version is much harder than you think becasue you don't get many letters to help with you guesses.
 
-#Try The Clones!
+# Try The Clones!
 
 [Wordle Clone 3](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_3) the "Wordle" is 3 letters, and you have 6 guesses to get it. (originally only 4 guesses but way to hard)
 
