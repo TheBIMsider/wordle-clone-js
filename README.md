@@ -19,7 +19,7 @@ I ended up with three Wordle Clones versions, where the number is equal to the n
 Overall I would say the Clones I created are about 80 - 85% based on Ania's Tutorial, 5 - 10% based on the Web Dev Simplifide & Ian Lenehan Tutorials, and whatever's left I guess is on me 😁
 
 # Update
-I wanted to see if I could make the clones a little more responsive on phones, so I tried my 3, 5, and 7 letter versions based off the Web Dev Simplified version. Simalr to the past versions my take is about 90% WDS and 10% me 😉. Give the WDS versions a try below.    
+I wanted to see if I could make the clones a little more responsive on phones, so I tried my 3, 5, and 7 letter versions based off the [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) version. Similar to the past versions my take is about 90% WDS and 10% me 😉. Give the WDS versions a try below.    
 
 # Try The Clones!
 
