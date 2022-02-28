@@ -24,6 +24,8 @@ Overall I would say the Clones I created are about 80 - 85% based on Ania's Tuto
 
 [Wordle Clone 5](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_5) the "Wordle" is 5 letters, and you have 6 guesses to get it.   
 
-[Wordle Clone 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.
+[Wordle Clone 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.   
+
+[Wordle Clone WDS 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_WDS_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.   
 
 All versions choose a random "Wordle" from a list of 350 words for that version of the Clone. You can play as many time as you like, but as a truly random selection for the Wordle you could get the same word back to back, or close together.
