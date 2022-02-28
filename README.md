@@ -18,6 +18,9 @@ I ended up with three Wordle Clones versions, where the number is equal to the n
 
 Overall I would say the Clones I created are about 80 - 85% based on Ania's Tutorial, 5 - 10% based on the Web Dev Simplifide & Ian Lenehan Tutorials, and whatever's left I guess is on me 😁
 
+# Update
+I wanted to see if I could make the clones a little more responsive on phones, so I tried my 3, 5, and 7 letter versions based off the Web Dev Simplified version. Simalr to the past versions my take is about 90% WDS and 10% me 😉. Give the WDS versions a try below.    
+
 # Try The Clones!
 
 [Wordle Clone 3](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_3) the "Wordle" is 3 letters, and you have 6 guesses to get it. (originally only 4 guesses but way to hard)
@@ -25,6 +28,10 @@ Overall I would say the Clones I created are about 80 - 85% based on Ania's Tuto
 [Wordle Clone 5](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_5) the "Wordle" is 5 letters, and you have 6 guesses to get it.   
 
 [Wordle Clone 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.   
+
+[Wordle Clone WDS 3](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_WDS_3) the "Wordle" is 3 letters, and you have 6 guesses to get it. 
+
+[Wordle Clone WDS 5](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_WDS_5) the "Wordle" is 5 letters, and you have 6 guesses to get it  
 
 [Wordle Clone WDS 7](https://thebimsider.github.io/wordle-clone-js/Wordle_Clone_WDS_7) the "Wordle" is 7 letters, and you have 8 guesses to get it.   
 
